@@ -1,0 +1,11 @@
+{
+    "name": "import-error-types",
+    "version": "1.0.0",
+    "description": "Demo for StackOverflow",
+    "scripts": {
+      "start": "npx serve"
+    },
+    "author": "sultan99",
+    "license": "MIT"
+  }
+  

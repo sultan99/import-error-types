@@ -1,2 +1,4 @@
-# import-error-types
-Demo for Stack-overflow
+Run
+`npm start`
+
+Check console of your browser: http://localhost:3000/
